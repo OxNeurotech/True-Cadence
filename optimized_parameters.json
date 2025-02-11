@@ -1,0 +1,27 @@
+{
+    "beta_centers": {
+        "very_low": 3.0,
+        "low": 4.0,
+        "medium": 4.5,
+        "high": 5.0,
+        "very_high": 6.0
+    },
+    "ratio_centers": {
+        "very_low": 0.33,
+        "low": 0.5,
+        "medium": 0.67,
+        "high": 0.85,
+        "very_high": 0.98
+    },
+    "speed_rules": {
+        "very_low": 1.758822476680463,
+        "low": 1.9900620772162563,
+        "medium": 1.0989073226676795,
+        "high": 0.7967190754154369,
+        "very_high": 0.5944070107311288
+    },
+    "beta_weight": 0.5191009974786721,
+    "ratio_weight": 0.4808990025213279,
+    "beta_spread": 1.4943838262885474,
+    "ratio_spread": 0.2972196831937668
+}
